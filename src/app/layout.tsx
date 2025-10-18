@@ -18,11 +18,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: '群馬大学作曲部アルバム紹介サイト',
     description: '群馬大学作曲部のオリジナルアルバムの歌詞掲載などを行っています',
-    url: '<https://gu-sakkyoku-album.pages.dev/>',
+    url: 'https://gu-sakkyoku-album.pages.dev/',
     siteName: '群馬大学作曲部アルバム紹介サイト',
     images: [
       {
-        url: '/sakkyokukyara.png',
+        url: 'https://gu-sakkyoku-album.pages.dev/sakkyokukyara.png',
         width: 1280,
         height: 1280,
       },
