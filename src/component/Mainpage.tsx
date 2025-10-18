@@ -133,8 +133,8 @@ const MainPage = () => {
       <h1 className="text-[30px] px-[10%] font-serif text-center">作曲部オリジナルアルバム1作目「虹色memory」</h1>
       <br /><br />
       <Image
-            src="/cover3.png"
-            alt="cover3"
+            src="/cover31.png"
+            alt="ジャケット画像"
             width={2160}
             height={2160}
             style={{

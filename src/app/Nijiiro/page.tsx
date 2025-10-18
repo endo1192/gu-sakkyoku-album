@@ -13,7 +13,7 @@ const MainPage = () => {
     <Cheader />
       <br /><br /><br /><br /><br /><br /><br />
       <h1 className="text-[30px] px-[10%] font-serif text-center">
-        作曲部オリジナルアルバム1作目「虹色memory」
+        群馬大学作曲部オリジナルアルバム1作目「虹色memory」
       </h1>
       <div className="relative w-[80%] pb-[45%] mx-auto mt-10">
   <iframe
@@ -32,8 +32,8 @@ const MainPage = () => {
       <h1 className="text-[30px] px-[10%] font-serif text-center">「虹色memory」曲リスト</h1>
       <br /><br />
       <Image
-            src="/cover3.png"
-            alt="cover3"
+            src="/cover31.png"
+            alt="ジャケット画像"
             width={2160}
             height={2160}
             style={{
