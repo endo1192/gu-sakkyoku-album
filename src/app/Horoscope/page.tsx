@@ -147,7 +147,7 @@ const MainPage = () => {
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">01 The signal in the noise</p>
           <br />
-          <p className="text-[18px] px-[10%] font-serif text-center">02 can't ESCAPE!!! feat. 雨歌エル</p>
+          <p className="text-[18px] px-[10%] font-serif text-center">02 can&apos;t ESCAPE!!! feat. 雨歌エル</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">03 招雷降神、CUCUMBER</p>
           <br />
