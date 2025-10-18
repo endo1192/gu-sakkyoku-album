@@ -22,7 +22,7 @@ const MainPage = () => {
 ずっとずっと覚えてるけど<br />
 <br />
 正体は未研究<br />
-もうCan't Escape!!!<br /> 
+もうCan&apos;t Escape!!!<br /> 
 今回も全部<br />
 ずっとずっと覚えてるから<br />
 <br />
@@ -53,7 +53,7 @@ const MainPage = () => {
 ずっとずっと覚えてるけど<br />
 <br />
 正体は未研究<br />
-もうCan't Escape!!! <br />
+もうCan&apos;t Escape!!! <br />
 今回も全部<br />
 ずっとずっと覚えてるから<br />
 <br />
@@ -90,7 +90,7 @@ const MainPage = () => {
 ずっとずっと覚えてるけど<br />
 <br />
 正体は未研究<br />
-もうCan't Escape!!! <br />
+もうCan&apos;t Escape!!! <br />
 今回も全部<br />
 ずっとずっと覚えてるから</p>
       <br /><br />
