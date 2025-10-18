@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gu-sakkyoku-album.pages.dev/sitemap.xml
