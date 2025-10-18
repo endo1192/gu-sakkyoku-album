@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 const MainPage = () => {
   return (
     <>
-      <br /><br />
+      <br /><br /><br /><br /><br /><br /><br />
       <h1 className="text-[30px] px-[10%] font-serif text-center">
         群馬大学作曲部アルバム紹介ページ
       </h1>
