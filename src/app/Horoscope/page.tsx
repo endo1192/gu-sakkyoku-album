@@ -66,7 +66,7 @@ const MainPage = () => {
             width={1500}
             height={1500}
             style={{
-              width: "30vw",
+              width: "33vw",
               height: "auto",
               boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
               borderRadius: "10px",
@@ -98,7 +98,7 @@ const MainPage = () => {
             width={1500}
             height={1500}
             style={{
-              width: "30vw",
+              width: "35vw",
               height: "auto",
               boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
               borderRadius: "10px",
@@ -120,7 +120,7 @@ const MainPage = () => {
           <p className="text-[18px] px-[10%] font-serif text-center">02 流星を詠む</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">03 テザー feat. 花隈千冬</p>
-          <br />
+          <Link href="/Horoscope/teza"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
           <p className="text-[18px] px-[10%] font-serif text-center">04 ブラックホール、午後ティーを添えて</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">05 Lift Off!</p>
@@ -138,9 +138,11 @@ const MainPage = () => {
           <p className="text-[18px] px-[10%] font-serif text-center">11 沈黙の衛星と虚構における記憶の硝子</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">12 フェード feat. 音街ウナ</p>
-          <br />
+          <Link href="/Horoscope/fead"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+
           <p className="text-[18px] px-[10%] font-serif text-center">13 星くずの小瓶</p>
-          <br />
+          <Link href="/Horoscope/hoshikuzu"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+
           <p className="text-[18px] px-[10%] font-serif text-center">14 Amairo Trail</p>
           <br /><br /><br /><br />
           <p className="text-[27px] px-[10%] font-serif text-center">2枚目</p>
@@ -148,7 +150,7 @@ const MainPage = () => {
           <p className="text-[18px] px-[10%] font-serif text-center">01 The signal in the noise</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">02 can&apos;t ESCAPE!!! feat. 雨歌エル</p>
-          <br />
+          <Link href="/Horoscope/cant"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
           <p className="text-[18px] px-[10%] font-serif text-center">03 招雷降神、CUCUMBER</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">04 弦楽四重奏曲第1番ホ長調-入学祝い-</p>
@@ -156,11 +158,11 @@ const MainPage = () => {
           <p className="text-[18px] px-[10%] font-serif text-center">05 青空</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">06 もしもあなたと</p>
-          <br />
+          <Link href="/Horoscope/mosimo"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
           <p className="text-[18px] px-[10%] font-serif text-center">07 ０３：３９</p>
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">08 ため息は空に溶けた feat. 花隈千冬</p>
-          <br />
+          <Link href="/Horoscope/tameiki"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
           <p className="text-[18px] px-[10%] font-serif text-center">09 クチグルマジャーニー</p>
           <br />
           <br />

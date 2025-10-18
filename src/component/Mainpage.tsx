@@ -66,7 +66,7 @@ const MainPage = () => {
             width={1500}
             height={1500}
             style={{
-              width: "30vw",
+              width: "33vw",
               height: "auto",
               boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
               borderRadius: "10px",
@@ -98,7 +98,7 @@ const MainPage = () => {
             width={1500}
             height={1500}
             style={{
-              width: "30vw",
+              width: "35vw",
               height: "auto",
               boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
               borderRadius: "10px",
