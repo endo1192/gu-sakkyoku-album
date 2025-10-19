@@ -142,6 +142,7 @@ const MainPage = () => {
               height: "auto",
               borderRadius: "12px",
               display: "block", 
+              boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
               margin: "0 auto"
             }}
           />

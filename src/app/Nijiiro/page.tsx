@@ -40,6 +40,7 @@ const MainPage = () => {
               width: "30%",
               height: "auto",
               borderRadius: "12px",
+              boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
               display: "block", 
               margin: "0 auto"
             }}

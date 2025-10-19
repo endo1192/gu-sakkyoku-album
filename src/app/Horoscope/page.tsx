@@ -116,6 +116,20 @@ const MainPage = () => {
           <p className="text-[27px] px-[10%] font-serif text-center">1枚目</p>
           <br /><br />
           <p className="text-[18px] px-[10%] font-serif text-center">01 フワっと！スペースえすけ～ぷ！！ feat. 知声, 花隈千冬</p>
+          <Image
+                            src="/gamoji.png"
+                            alt="ジャケット画像"
+                            width={1280}
+                            height={1280}
+                            style={{
+                              width: "27%",
+                              height: "auto",
+                              borderRadius: "12px",
+                              display: "block", 
+                              boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
+                              margin: "0 auto"
+                            }}
+                          />
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/Solar Systems</p>
           <Link href="/Horoscope/fuwa"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
 

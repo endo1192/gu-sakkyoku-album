@@ -1,6 +1,6 @@
 "use client";
 
-
+import Image from "next/image";
 import Cheader from "../../../component/header";
 import Cfooter from "../../../component/footer";
 
@@ -15,7 +15,22 @@ const MainPage = () => {
         フワっと！スペースえすけ～ぷ！！ feat. 知声, 花隈千冬
       </h1>
       
-      <br /><br /><br />
+      <br /><br />
+      <Image
+                  src="/gamoji.png"
+                  alt="ジャケット画像"
+                  width={1280}
+                  height={1280}
+                  style={{
+                    width: "55%",
+                    height: "auto",
+                    borderRadius: "12px",
+                    display: "block", 
+                    boxShadow: "0 8px 20px rgba(0, 0, 0, 0.3)",
+                    margin: "0 auto"
+                  }}
+                />
+      <br />
       <p className="text-[18px] px-[10%] font-serif text-center">大気圏抜け出してふわふわ<br />
 もうなにを言われても上の空<br />
 しばし地に足つけずにだらだら　あと少しだけ<br />
