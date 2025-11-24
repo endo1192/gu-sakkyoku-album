@@ -113,7 +113,7 @@ const MainPage = () => {
           
           
           
-          <p className="text-[27px] px-[10%] font-serif text-center">1枚目</p>
+          <p className="text-[27px] px-[10%] font-serif text-center">Disc 1</p>
           <br /><br />
           <p className="text-[18px] px-[10%] font-serif text-center">01 フワっと！スペースえすけ～ぷ！！ feat. 知声, 花隈千冬</p>
           <Image
@@ -185,7 +185,7 @@ const MainPage = () => {
           <p className="text-[18px] px-[10%] font-serif text-center">music/Miriha</p>
           <br /><br /><br /><br />
 
-          <p className="text-[27px] px-[10%] font-serif text-center">2枚目</p>
+          <p className="text-[27px] px-[10%] font-serif text-center">Disc 2</p>
           <br />
 
 
