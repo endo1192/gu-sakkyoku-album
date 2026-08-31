@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "群馬大学作曲部アルバム紹介サイト",
   description: "群馬大学作曲部のオリジナルアルバムの歌詞掲載などを行っています",
+  robots: {
+    index: true,
+    follow: true,
+  },
   openGraph: {
     title: '群馬大学作曲部アルバム紹介サイト',
     description: '群馬大学作曲部のオリジナルアルバムの歌詞掲載などを行っています',
@@ -38,11 +42,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="ja">
       <head>
         {/* ✅ ここに自由にHTMLタグを追加 */}
         <meta name="google-site-verification" content="NyDgJnwnlaAeo0i6AVHg_Y0LtZfS7ru4ab9x6dn6eFE" />
-        <meta name="robots" content="index, follow" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="群馬大学作曲部アルバム紹介サイト" />
         <meta

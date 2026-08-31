@@ -1,9 +1,9 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
 import Cheader from "../../component/header";
 import Cfooter from "../../component/footer";
+import LyricLink from "../../component/LyricLink";
 import { motion } from "framer-motion";
 
 
@@ -131,7 +131,7 @@ const MainPage = () => {
                             }}
                           />
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/Solar Systems</p>
-          <Link href="/Horoscope/fuwa"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/fuwa" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">02 流星を詠む</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music/創駄</p>
@@ -139,7 +139,7 @@ const MainPage = () => {
 
           <p className="text-[18px] px-[10%] font-serif text-center">03 テザー feat. 花隈千冬</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/ムギスタジオ</p>
-          <Link href="/Horoscope/teza"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/teza" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">04 ブラックホール、午後ティーを添えて</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music/♮まき6</p>
@@ -175,11 +175,11 @@ const MainPage = () => {
 
           <p className="text-[18px] px-[10%] font-serif text-center">12 フェード feat. 音街ウナ</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/おちゃ2</p>
-          <Link href="/Horoscope/fead"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/fead" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">13 星くずの小瓶</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/花曇,Canopus</p>
-          <Link href="/Horoscope/hoshikuzu"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/hoshikuzu" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">14 Amairo Trail</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music/Miriha</p>
@@ -195,7 +195,7 @@ const MainPage = () => {
 
           <p className="text-[18px] px-[10%] font-serif text-center">02 can&apos;t ESCAPE!!! feat. 雨歌エル</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/おちゃ2</p>
-          <Link href="/Horoscope/cant"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/cant" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">03 招雷降神、CUCUMBER</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music/♮まき6</p>
@@ -211,7 +211,7 @@ const MainPage = () => {
 
           <p className="text-[18px] px-[10%] font-serif text-center">06 もしもあなたと</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/the endo</p>
-          <Link href="/Horoscope/mosimo"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/mosimo" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">07 ０３：３９</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music/コロッケクリームガニ</p>
@@ -219,12 +219,12 @@ const MainPage = () => {
 
           <p className="text-[18px] px-[10%] font-serif text-center">08 ため息は空に溶けた feat. 花隈千冬</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/ムギスタジオ</p>
-          <Link href="/Horoscope/tameiki"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/tameiki" /><br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">09 クチグルマジャーニー</p>
           <p className="text-[18px] px-[10%] font-serif text-center">music・lyrics/コロッケクリームガニ</p>
           <p className="text-[18px] px-[10%] font-serif text-center">vocal/Melty kNightmare</p>
-          <Link href="/Horoscope/melt"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link><br />
+          <LyricLink href="/Horoscope/melt" /><br />
 
           <br />
           <br />
