@@ -1,9 +1,9 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
 import Cheader from "../../component/header";
 import Cfooter from "../../component/footer";
+import LyricLink from "../../component/LyricLink";
 
 
 
@@ -50,7 +50,7 @@ const MainPage = () => {
           <br />
 
           <p className="text-[18px] px-[10%] font-serif text-center">1. 曇りのち晴れ feat. 音街ウナ</p>
-          <Link href="/Nijiiro/kumori"><p className="text-[18px] px-[10%] font-serif text-center">歌詞はこちら</p></Link>
+          <LyricLink href="/Nijiiro/kumori" />
           <br />
           <p className="text-[18px] px-[10%] font-serif text-center">2. 僕らの夏 feat. 可不</p>
           <br />
