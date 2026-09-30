@@ -22,6 +22,16 @@ const MainPage = () => {
         )のDMまでお願いします。
       </p>
 
+      <p className="w-[80%] mx-auto mt-6 text-center">
+        <a
+          href="https://gu-sakkyoku.github.io/"
+          className="text-blue-600 underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+        >
+          群馬大学作曲部の新しい公式サイトはこちら
+        </a>
+        。このサイトの歌詞ページも引き続きご覧いただけます。
+      </p>
+
       <br />
       <br />
       <br />
